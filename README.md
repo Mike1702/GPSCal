@@ -14,6 +14,8 @@ Sau khi mở app, chờ một lúc để app định vị được vị trí, nh
 
 File .csv GPS sau khi ghi xong được lưu trong thư mục Documents. Gửi file đến máy tính để tiếp tục xử lý. Tên file có dạng ground_truth_YYYY_MM_DD_HH_MM.csv (Dữ liệu này không phải ground truth vì vẫn tồn tại sai số)
 
+Link git app: https://github.com/Mike1702/AppGetGPS
+
 Chú ý không dùng điện thoại Samsung để cài app, không biết vì sao nhưng mà app định vị dùng trên máy Samsung toàn bị lỗi. 
 
 # Hướng dẫn sử dụng code
