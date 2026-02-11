@@ -17,6 +17,7 @@ File .csv GPS sau khi ghi xong được lưu trong thư mục Documents. Gửi f
 Link git app: https://github.com/Mike1702/AppGetGPS
 
 Chú ý không dùng điện thoại Samsung để cài app, không biết vì sao nhưng mà app định vị dùng trên máy Samsung toàn bị lỗi. 
+
 Note sau 2 năm làm ở Samsung: Điện thoại samsung có rất nhiều cơ chế chạy ngầm để đảm bảo security và độ ổn định của hệ thống. Có thể app không bắt được full data và bị lỗi là do cơ chế tự ngắt để tiết kiệm pin (hoặc cơ chế ẩn nào đó). 
 
 # Hướng dẫn sử dụng code
